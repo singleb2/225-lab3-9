@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: flask
-          image: cithit/singleb2:latest
+          image: cithit/roseaw:latest
           ports:
             - containerPort: 5000
 
